@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/blocktracker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bitcoinec.info
+  * I am blocktracker (https://keybase.io/blocktracker) on keybase.
+  * I have a public key with fingerprint 22D3 A508 CB91 23D1 92F0  2487 E16A 6657 E79E CA05
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019059361f3d2191e358c4854c84d2f236058d9cb99f8f5b070232f048ba2c37f20a",
+            "fingerprint": "22d3a508cb9123d192f02487e16a6657e79eca05",
+            "host": "keybase.io",
+            "key_id": "e16a6657e79eca05",
+            "kid": "01019059361f3d2191e358c4854c84d2f236058d9cb99f8f5b070232f048ba2c37f20a",
+            "uid": "2bb3f6f737e8bfc15c387a3af75f5019",
+            "username": "blocktracker"
+        },
+        "service": {
+            "hostname": "bitcoinec.info",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1489665029,
+    "expire_in": 157680000,
+    "prev": "c81c46f3da29a4f555045fa461db3c1a7a5f974c3a7428174f0d8c32e3fefde9",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMNGAnicrVJtUBVVGF5QLDCSGkFQpmB1nETy7ufd3ctHd4IwJqEaB8UpuO7HOXs3
+rncvexcIlVKDUnAkhiRykmYkEqMsssA++AxFVCJAEzQERwfQ0GTAaNCsXSb/9bPz
+58w57/M87/M+83YEzkMCfK68BjeOVZ328znTdjAHST+93W8bKqhSPmrbhmaBuQu4
+JODVHVmKhNpQDMdwDqM50opDUiJwDgckzYoUS1MiS0kEJEgrRrMSJwocB1lICxiD
+ESQBMYoVeEIkGUhgPBqNQsUtA82jKW7dkCUIieRpjDVYOEFKOGcQCIplAG7lrVaa
+AQwHRB6jDaJT9ZoMw5zAe8EaRTX+jIdjzt5/4P9n3zlzcoQgkNAKGZIBrABFnBZJ
+luFJHjI0pI1OJtALNDe/BRhowaWKWbrGi1lAQwuiUaOSq4jADNec5gFK0UVVcQNx
+jeKG5lQeTdVVUXUZNaeue7w2k6vne0xwHhAc/8o4BMUtGWkajFygeRXVjdpwAynq
+iqmLUyxnRIIRXDQKXvcoGnAoJoJmrCxmHLMPyDUkRRYXKauRDk9wPAVpmsYoGvKU
+FZcEUsR5hqchx1AiyTMUweIMBTGJFUkCkBBACZgze0G2W0VttGGTlw1JryK7eT1H
+A2hBe9ur8xGfAGSBn6+5ZUiAf9CD3Wu9FoTsT7miP7JDmCxdLw/NnHHs8l8yfLz6
+vj4w2Hz4TqIz++yFIz0VRd9ExPnG/tQQUTyadq6ycPVLIZvxV8KP7U5cwXN8yKln
+TgrHmgbuvLDX97GHN1SK+7jrlr0960/M3w4S/2pA+y+0XL23tK/8qdhNgn28ePDT
+TufKfTk/ZFaRLcvDcVecJXQc6W/e0zRUkDx1yfJuyFTIxDJqYFljAXKjt3jnEVWb
+9qm8WFhZVxgjRJ3/TOjf0jN96W3c+dbPFjxjcVx2ZsxFmOL942z18SHC5coItAR/
+8N2MZ+ZR++D3YW1pzJvy6tC0A8WpNz/68EaSfSKxOP332JLn4pOnya6g8odG/IOj
+a2Bnfg3yd0pF/221xx6a9+PJKjSq8e5U/leM3CfPS0qxZ6R+3JpwaCxSTn3/9uID
+ydV9MUjrqUULp3j7aOYXgeHpCeXxOlDqJuuH3+ncdPC3o7aXIxvek/NGOzobb607
+Fxb5dW9IZntLb+LWOuRuxzXB52bRWmV/eTz162DFhL371ovDGzc8EdzdPXu0dJG8
+fOdUQH1lWqqUnVAR8Sx2fsXS+4+PZCxp/XZV0cparVYKUw7tvueHR61zyQvYpzO6
+Bq6XdbVbJi/3JZ0YmW0qK3k+L3/iDd/xz0uYBZ3SuGNm1ZPEruCa6U+Gav/cPHvY
+ubV5vN5Z+svlL8d2+F1NXbi2bPofLHrF7A==
+=NhJA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/blocktracker
+
+==================================================================
