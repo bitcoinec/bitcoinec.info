@@ -31,7 +31,7 @@ We will have emergent consensus parameters both for the serialized block size an
 
 **Will you also have an AD(Accept Depth) parameter like Bitcoin Unlimited?**
 
-Instead of Accept Depth we will implement a warning system to alerts users if they are not on the longest chain. Implementing AD in the way BU has done appears to be fairly complicated and hard to do correctly, a warning system is simple since we only need the block headers for that.
+Instead of Accept Depth we will implement a warning system to alert users if they are not on the longest chain. Implementing AD in the way BU has done appears to be fairly complicated and hard to do correctly, a warning system is simple since we only need the block headers for that.
 
 **How can I get involved?**
 
