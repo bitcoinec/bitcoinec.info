@@ -1,0 +1,3 @@
+theme: jekyll-theme-slate
+title: [BitcoinEC]
+description: [A minimal patchset on top of Bitcoin Core to provide a stable implementation of Emergent Consensus]
